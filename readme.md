@@ -16,4 +16,4 @@ expo start
 * [react native snap carousel](https://github.com/archriss/react-native-snap-carousel)
 
 ## Demo
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://github.com/hamzasajid1995/google-maps-with-carousel-react-native/blob/master/demo/demo.gif?raw=true"  />
