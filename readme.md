@@ -15,3 +15,5 @@ expo start
 * [React native maps](https://github.com/react-native-community/react-native-maps)
 * [react native snap carousel](https://github.com/archriss/react-native-snap-carousel)
 
+## Demo
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
