@@ -19,7 +19,7 @@ expo start
 <img src="https://github.com/hamzasajid1995/google-maps-with-carousel-react-native/blob/master/demo/demo.gif?raw=true"  />
 
 ## Live working app use case
-```
+
 (Code for this project is private)
-```
+
 <img src="https://github.com/hamzasajid1995/google-maps-with-carousel-react-native/blob/master/demo/liveappdemo.gif?raw=true"  />
