@@ -9,14 +9,6 @@ To get started:
 yarn add
 expo start
 ```
-### Prerequisites
-
-What things you need to install the software and how to install them
-expo-cli
-```
-Give examples
-```
-
 
 ## Built With
 
