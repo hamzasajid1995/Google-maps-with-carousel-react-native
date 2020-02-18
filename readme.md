@@ -15,6 +15,18 @@ expo start
 * [React native maps](https://github.com/react-native-community/react-native-maps)
 * [react native snap carousel](https://github.com/archriss/react-native-snap-carousel)
 
+## Issues and solutions
+- Sometimes carousel was not shown setting the following prop resolved it
+  removeClippedSubviews={false} // https://github.com/archriss/react-native-snap-carousel/issues/238, see description of method triggerRenderingHack() on githubb docs. setting false addreses issue where carosuel is not visible on first render.
+
+- Use this prop to use Google maps on ios instead of apple maps for better performance:
+  provider={MapView.PROVIDER_GOOGLE}
+  
+- Use flatlist instead of scrollview in carousel for lazy loading
+  useScrollView={false}
+
+
+
 ## Demo
 <img src="https://github.com/hamzasajid1995/google-maps-with-carousel-react-native/blob/master/demo/demo.gif?raw=true"  />
 
