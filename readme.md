@@ -13,7 +13,7 @@ expo start
 ## Built With
 
 * [React native maps](https://github.com/react-native-community/react-native-maps)
-* [react native snap carousel](https://github.com/archriss/react-native-snap-carousel)
+* [React native snap carousel](https://github.com/archriss/react-native-snap-carousel)
 
 ## Issues and solutions
 - Sometimes carousel was not shown setting the following prop resolved it
