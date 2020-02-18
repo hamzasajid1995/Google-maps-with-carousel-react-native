@@ -17,13 +17,20 @@ expo start
 
 ## Issues and solutions
 - Sometimes carousel was not shown setting the following prop resolved it
-  removeClippedSubviews={false} // https://github.com/archriss/react-native-snap-carousel/issues/238, see description of method triggerRenderingHack() on githubb docs. setting false addreses issue where carosuel is not visible on first render.
+  ```
+  removeClippedSubviews={false}
+  ```
+ // https://github.com/archriss/react-native-snap-carousel/issues/238, see description of method triggerRenderingHack() on githubb docs. setting false addreses issue where carosuel is not visible on first render.
 
 - Use this prop to use Google maps on ios instead of apple maps for better performance:
+  ```
   provider={MapView.PROVIDER_GOOGLE}
+  ```
   
 - Use flatlist instead of scrollview in carousel for lazy loading
+  ```
   useScrollView={false}
+  ```
 
 
 
