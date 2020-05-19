@@ -1,4 +1,4 @@
-Google maps with carousel - React native
+## Google maps with carousel - React native
 
 React native project for google maps with carousel linked together
 
