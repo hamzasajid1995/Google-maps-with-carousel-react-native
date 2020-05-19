@@ -16,7 +16,7 @@ expo start
 * [React native snap carousel](https://github.com/archriss/react-native-snap-carousel)
 
 ## Issues and solutions
-- Sometimes carousel was not shown setting the following prop resolved it
+- Sometimes carousel is not shown and setting the following prop resolves this
   ```
   removeClippedSubviews={false}
   ```
